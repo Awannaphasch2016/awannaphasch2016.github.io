@@ -264,6 +264,18 @@ In this blog, I will just present minimal info for you to start writing latex in
     </item>
     
     <item>
+      <title>Time Travelers Guide To Navigate Git Commit History.</title>
+      <link>https://awannaphasch2016.github.io/posts/time-travelers-guide-to-navigate-git-commit-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://awannaphasch2016.github.io/posts/time-travelers-guide-to-navigate-git-commit-history/</guid>
+      <description>One of principle I follow is
+ never rely on others&amp;rsquo; people goodwill. and always expect other to be evil when it is possible.
+ In quote , type of evil falls into incompetent evil and irresponsible evil. Putting this principle into practice, one must understand structures that govern behavior of people given a particular pursuit of goal.
+In this scenario, I refers structure as git log and a particular pursuite of goal as learning and understanding a piece of code such as open source code.</description>
+    </item>
+    
+    <item>
       <title>Useful Emacs Command And Snippets For Writing</title>
       <link>https://awannaphasch2016.github.io/posts/useful-emacs-command-and-snippets-for-writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
