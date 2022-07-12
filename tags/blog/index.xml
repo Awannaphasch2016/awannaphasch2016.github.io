@@ -332,6 +332,17 @@ On [2022-06-26 Sun], I stumbled upon wiki.c2.com. I was reading about it for a c
     </item>
     
     <item>
+      <title>X Implementation Where X = Doom Emacs&#39;s &#43;lookup/ Command.</title>
+      <link>https://awannaphasch2016.github.io/posts/x-implementation-where-x-doom-emacss-&#43;lookup-command/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://awannaphasch2016.github.io/posts/x-implementation-where-x-doom-emacss-&#43;lookup-command/</guid>
+      <description>I was trying to figure out +lookup/definition that open in other window. In one of the issue, Henrik 1 mention that some lookup backend (As an example, xref is a built in backend for lookup) are asynchronous and there is no standardized mechanism to talk to them to see whether the command runs successfully 2.
+lets call this new command +lookup/definition-other-window Current possible solutions are
+ ignore validation step to make sure that the command runs succesfully.</description>
+    </item>
+    
+    <item>
       <title>X implementation where X = executing org babel block in Doom Emacs.</title>
       <link>https://awannaphasch2016.github.io/posts/x-implementation-where-x-executing-org-babel-block-in-doom-emacs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
