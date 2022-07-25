@@ -114,6 +114,10 @@
   </url>
   
   <url>
+    <loc>https://awannaphasch2016.github.io/tags/container/</loc>
+  </url>
+  
+  <url>
     <loc>https://awannaphasch2016.github.io/tags/database/</loc>
   </url>
   
@@ -127,6 +131,14 @@
   
   <url>
     <loc>https://awannaphasch2016.github.io/tags/devlogs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://awannaphasch2016.github.io/tags/docker/</loc>
+  </url>
+  
+  <url>
+    <loc>https://awannaphasch2016.github.io/tags/dockerfile/</loc>
   </url>
   
   <url>
@@ -323,6 +335,10 @@
   
   <url>
     <loc>https://awannaphasch2016.github.io/tags/recipe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://awannaphasch2016.github.io/posts/running-docker-container-with-dockerfile/</loc>
   </url>
   
   <url>
