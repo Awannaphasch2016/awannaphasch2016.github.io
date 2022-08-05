@@ -48,6 +48,16 @@ I define blog as followed
     </item>
     
     <item>
+      <title>A Brief Story of Evolution and Widespread Adoption of The Internet</title>
+      <link>https://awannaphasch2016.github.io/posts/a-brief-story-of-evolution-and-widespread-adoption-of-the-internet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://awannaphasch2016.github.io/posts/a-brief-story-of-evolution-and-widespread-adoption-of-the-internet/</guid>
+      <description>&amp;ldquo;Internetworking Architecture&amp;rdquo; (Leiner et al. 2009) was a fundamental design that enable machines and computers to communicate via internet regardless of underlying communication protocol.
+TCP/IP were implemented in UNIX operating system triggers a widespread adoption of internet (Leiner et al. 2009). Dispersion of protocols began in research community. Recall that predecessor of internet project (it was named &amp;ldquo;internetworking&amp;rdquo; at the time) was funded with the goal to increase speed and efficiency of research collaborations.</description>
+    </item>
+    
+    <item>
       <title>A Note of X where X = AWS EC2 services.</title>
       <link>https://awannaphasch2016.github.io/posts/a-note-of-x-where-x-aws-ec2-services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
